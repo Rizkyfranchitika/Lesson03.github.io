@@ -1,0 +1,44 @@
+h1{
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+.tag-h3{
+    color: blue;
+}
+
+.header{
+    background-color: aqua;
+    font-size: 20px;
+}
+
+.content{
+    background-color: bisque;
+}
+
+.footer{
+    background-color: blue;
+}
+
+
+/** BAGIAN 3 KOLOM **/
+.parent{
+    background-color: darkgrey;
+    
+}
+.child1{
+    background-color: greenyellow;
+    width: 33%;
+    float:left;
+}
+
+.child2{
+    background-color: lightpink;
+    width: 34%;
+    float:left;
+}
+
+.child3{
+    background-color: yellow;
+    width: 33%;
+    float:left;
+}
